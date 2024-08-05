@@ -1,0 +1,22 @@
+ERROR:root:Error occurred: [Errno 2] No such file or directory: 'data/MallCustomers.csv'
+INFO:root:Data loaded successfully
+ERROR:root:Error occurred: 'Married'
+2024-08-04 00:19:28,209:INFO:Data loaded successfully
+2024-08-04 00:19:28,212:INFO:Data preprocessed successfully
+2024-08-04 00:24:24,192:ERROR:Error occurred: [Errno 2] No such file or directory: 'data/MallCustomers.csv'
+2024-08-04 00:24:45,860:INFO:Data loaded successfully
+2024-08-04 00:24:45,860:INFO:Data preprocessed successfully
+2024-08-04 00:24:53,486:INFO:KMeans model trained successfully
+2024-08-04 00:24:56,756:INFO:KMeans model evaluated successfully
+2024-08-04 16:18:48,347:INFO:Data loaded successfully
+2024-08-04 16:18:48,350:INFO:Data preprocessed successfully
+2024-08-04 16:18:53,322:INFO:KMeans model trained successfully
+2024-08-04 16:18:56,785:INFO:KMeans model evaluated successfully
+2024-08-04 20:16:10,527:INFO:Data loaded successfully
+2024-08-04 20:16:10,527:INFO:Data preprocessed successfully
+2024-08-04 20:16:14,296:INFO:KMeans model trained successfully
+2024-08-04 20:16:16,344:INFO:KMeans model evaluated successfully
+2024-08-04 23:01:33,865:INFO:Data loaded successfully
+2024-08-04 23:01:33,865:INFO:Data preprocessed successfully
+2024-08-04 23:01:36,675:INFO:KMeans model trained successfully
+2024-08-04 23:01:38,704:INFO:KMeans model evaluated successfully
